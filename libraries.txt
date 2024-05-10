@@ -1,0 +1,6 @@
+LiquidCrystal I2C
+MQTTPubSubClient
+PubSubClient
+ArduinoJson
+DHT22
+DHT sensor library
