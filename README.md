@@ -70,5 +70,5 @@ Para rodar esse projeto, você vai precisar adicionar ou mudar as seguintes cois
 
 esse é um exempro do projeto funcionadno 
 
-![Arduino](/img/exemplo)
+![Arduino](/img/20240510_094155.gif)
 
